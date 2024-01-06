@@ -44,7 +44,7 @@
     <div id="footer-copyright">
         <div class="container">
             <div class="w-100 text-center py-3">
-                Copyright © 2023 All Rights Reserved
+                Copyright © 2023. experiment version
             </div>
         </div>
     </div>

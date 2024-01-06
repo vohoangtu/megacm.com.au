@@ -16,26 +16,26 @@
         <div class="container">
 
             <div class="row no-gutters py-5 px-5">
-                <div class="col-sm-6"><img src="http://www.jjjlandscaping.com.au/gallery/reno/reno-01-big.jpg" class="img-fluid" data-aos="fade-up" data-aos-duration="1500"></div>
-                <div class="col-sm-6"><img src="http://www.jjjlandscaping.com.au/gallery/reno/reno-01-big-b.jpg" class="img-fluid bw" data-aos="fade-down" ></div>
+                <div class="col-sm-6"><img src="gallery/reno-01-big.jpg" class="img-fluid" data-aos="fade-up" data-aos-duration="1500"></div>
+                <div class="col-sm-6"><img src="gallery/reno-01-big-b.jpg" class="img-fluid bw" data-aos="fade-down" ></div>
             </div>
 
             <div class="row no-gutters py-5 px-5">
-                <div class="col-sm-6"><img src="http://www.jjjlandscaping.com.au/gallery/reno/reno-02-big.jpg" class="img-fluid" data-aos="flip-up" data-aos-duration="1500"></div>
-                <div class="col-sm-6"><img src="http://www.jjjlandscaping.com.au/gallery/reno/reno-02-big-b.jpg" class="img-fluid bw" data-aos="flip-down" ></div>
+                <div class="col-sm-6"><img src="gallery/reno-02-big.jpg" class="img-fluid" data-aos="flip-up" data-aos-duration="1500"></div>
+                <div class="col-sm-6"><img src="gallery/reno-02-big-b.jpg" class="img-fluid bw" data-aos="flip-down" ></div>
             </div>
 
             <div class="row no-gutters py-5 px-5">
-                <div class="col-sm-6"><img src="http://www.jjjlandscaping.com.au/gallery/reno/reno-03-big.jpg" class="img-fluid" data-aos="fade-up" data-aos-duration="1500"></div>
-                <div class="col-sm-6"><img src="http://www.jjjlandscaping.com.au/gallery/reno/reno-03-big-b.jpg" class="img-fluid bw" data-aos="fade-down" ></div>
+                <div class="col-sm-6"><img src="gallery/reno-03-big.jpg" class="img-fluid" data-aos="fade-up" data-aos-duration="1500"></div>
+                <div class="col-sm-6"><img src="gallery/reno-03-big-b.jpg" class="img-fluid bw" data-aos="fade-down" ></div>
             </div>
 
             <div class="row no-gutters py-5 px-5">
-                <div class="col-sm-6"><img src="http://www.jjjlandscaping.com.au/gallery/reno/reno-04-big.jpg" class="img-fluid" data-aos="flip-up" data-aos-duration="1500"></div>
-                <div class="col-sm-6"><img src="http://www.jjjlandscaping.com.au/gallery/reno/reno-04-big-b.jpg" class="img-fluid bw" data-aos="flip-down" ></div>
+                <div class="col-sm-6"><img src="gallery/reno-04-big.jpg" class="img-fluid" data-aos="flip-up" data-aos-duration="1500"></div>
+                <div class="col-sm-6"><img src="gallery/reno-04-big-b.jpg" class="img-fluid bw" data-aos="flip-down" ></div>
             </div>
             <div class="row no-gutters py-5 px-5">
-                <div class="col-sm-12"><img src="http://www.jjjlandscaping.com.au/gallery/reno/reno-05-big.jpg" class="img-fluid" data-aos="flip-up" data-aos-duration="1500"></div>
+                <div class="col-sm-12"><img src="gallery/reno-05-big.jpg" class="img-fluid" data-aos="flip-up" data-aos-duration="1500"></div>
 
             </div>
         </div>

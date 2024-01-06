@@ -84,9 +84,9 @@
                 <!-- -------------------------- art 01 -------------------------- -->
                 <div class="media-box artturf">
                     <div class="media-box-image mb-open-popup" data-type="inline">
-                        <div data-width="240" data-height="160" data-thumbnail="http://www.jjjlandscaping.com.au/gallery/artturf/artturf-01.jpg" ></div>
+                        <div data-width="240" data-height="160" data-thumbnail="gallery/artturf-01.jpg" ></div>
 
-                        <div class="thumbnail-overlay mb-open-popup happy-blue" data-src="http://www.jjjlandscaping.com.au/gallery/artturf/artturf-01-big.jpg">
+                        <div class="thumbnail-overlay mb-open-popup happy-blue" data-src="gallery/artturf-01-big.jpg">
                             <div class="media-box-title">Artificial Turf</div>
 
                         </div>
@@ -96,9 +96,9 @@
                 <!-- -------------------------- conc 01 -------------------------- -->
                 <div class="media-box concrete">
                     <div class="media-box-image mb-open-popup" data-type="inline">
-                        <div data-width="240" data-height="160" data-thumbnail="http://www.jjjlandscaping.com.au/gallery/concreting/concrete-01.jpg" ></div>
+                        <div data-width="240" data-height="160" data-thumbnail="gallery/concrete-01.jpg" ></div>
 
-                        <div class="thumbnail-overlay mb-open-popup happy-blue" data-src="http://www.jjjlandscaping.com.au/gallery/concreting/concrete-01-big.jpg">
+                        <div class="thumbnail-overlay mb-open-popup happy-blue" data-src="gallery/concrete-01-big.jpg">
                             <div class="media-box-title">Concreting</div>
 
                         </div>
@@ -108,9 +108,9 @@
                 <!-- -------------------------- deck 01 -------------------------- -->
                 <div class="media-box deck" data-columns="2">
                     <div class="media-box-image mb-open-popup" data-type="inline">
-                        <div data-width="240" data-height="160" data-thumbnail="http://www.jjjlandscaping.com.au/gallery/deck/deck-01.jpg" ></div>
+                        <div data-width="240" data-height="160" data-thumbnail="gallery/deck-01.jpg" ></div>
 
-                        <div class="thumbnail-overlay mb-open-popup happy-blue" data-src="http://www.jjjlandscaping.com.au/gallery/deck/deck-01-big.jpg">
+                        <div class="thumbnail-overlay mb-open-popup happy-blue" data-src="gallery/deck-01-big.jpg">
                             <div class="media-box-title">Decking</div>
 
                         </div>
@@ -120,9 +120,9 @@
                 <!-- -------------------------- fence 01 -------------------------- -->
                 <div class="media-box fence" data-columns="2">
                     <div class="media-box-image mb-open-popup" data-type="inline">
-                        <div data-width="240" data-height="160" data-thumbnail="http://www.jjjlandscaping.com.au/gallery/fence/fence-01.jpg" ></div>
+                        <div data-width="240" data-height="160" data-thumbnail="gallery/fence-01.jpg" ></div>
 
-                        <div class="thumbnail-overlay mb-open-popup happy-blue" data-src="http://www.jjjlandscaping.com.au/gallery/fence/fence-01-big.jpg">
+                        <div class="thumbnail-overlay mb-open-popup happy-blue" data-src="gallery/fence-01-big.jpg">
                             <div class="media-box-title">Fencing</div>
 
                         </div>
@@ -132,9 +132,9 @@
                 <!-- -------------------------- paving 01 -------------------------- -->
                 <div class="media-box paving">
                     <div class="media-box-image mb-open-popup" data-type="inline">
-                        <div data-width="240" data-height="160" data-thumbnail="http://www.jjjlandscaping.com.au/gallery/paving/paving-01.jpg" ></div>
+                        <div data-width="240" data-height="160" data-thumbnail="gallery/paving-01.jpg" ></div>
 
-                        <div class="thumbnail-overlay mb-open-popup happy-blue" data-src="http://www.jjjlandscaping.com.au/gallery/paving/paving-01-big.jpg">
+                        <div class="thumbnail-overlay mb-open-popup happy-blue" data-src="gallery/paving-01-big.jpg">
                             <div class="media-box-title">Paving and Tiling</div>
 
                         </div>
@@ -144,9 +144,9 @@
                 <!-- -------------------------- planting 01 -------------------------- -->
                 <div class="media-box planting">
                     <div class="media-box-image mb-open-popup" data-type="inline">
-                        <div data-width="240" data-height="160" data-thumbnail="http://www.jjjlandscaping.com.au/gallery/planting/planting-01.jpg" ></div>
+                        <div data-width="240" data-height="160" data-thumbnail="gallery/planting-01.jpg" ></div>
 
-                        <div class="thumbnail-overlay mb-open-popup happy-blue" data-src="http://www.jjjlandscaping.com.au/gallery/planting/planting-01-big.jpg">
+                        <div class="thumbnail-overlay mb-open-popup happy-blue" data-src="gallery/planting-01-big.jpg">
                             <div class="media-box-title">Planting</div>
 
                         </div>
@@ -156,9 +156,9 @@
                 <!-- -------------------------- realturf 01 -------------------------- -->
                 <div class="media-box realturf">
                     <div class="media-box-image mb-open-popup" data-type="inline">
-                        <div data-width="240" data-height="160" data-thumbnail="http://www.jjjlandscaping.com.au/gallery/realturf/realturf-01.jpg" ></div>
+                        <div data-width="240" data-height="160" data-thumbnail="gallery/realturf-01.jpg" ></div>
 
-                        <div class="thumbnail-overlay mb-open-popup happy-blue" data-src="http://www.jjjlandscaping.com.au/gallery/realturf/realturf-01-big.jpg">
+                        <div class="thumbnail-overlay mb-open-popup happy-blue" data-src="gallery/realturf-01-big.jpg">
                             <div class="media-box-title">Real Turf</div>
 
                         </div>
@@ -168,9 +168,9 @@
                 <!-- -------------------------- walls 01 -------------------------- -->
                 <div class="media-box walls">
                     <div class="media-box-image mb-open-popup" data-type="inline">
-                        <div data-width="240" data-height="160" data-thumbnail="http://www.jjjlandscaping.com.au/gallery/walls/walls-01.jpg" ></div>
+                        <div data-width="240" data-height="160" data-thumbnail="gallery/walls-01.jpg" ></div>
 
-                        <div class="thumbnail-overlay mb-open-popup happy-blue" data-src="http://www.jjjlandscaping.com.au/gallery/walls/walls-01-big.jpg">
+                        <div class="thumbnail-overlay mb-open-popup happy-blue" data-src="gallery/walls-01-big.jpg">
                             <div class="media-box-title">Retaining Walls</div>
 
                         </div>
@@ -180,9 +180,9 @@
                 <!-- -------------------------- art 02 -------------------------- -->
                 <div class="media-box artturf">
                     <div class="media-box-image mb-open-popup" data-type="inline">
-                        <div data-width="240" data-height="160" data-thumbnail="http://www.jjjlandscaping.com.au/gallery/artturf/artturf-02.jpg" ></div>
+                        <div data-width="240" data-height="160" data-thumbnail="gallery/artturf-02.jpg" ></div>
 
-                        <div class="thumbnail-overlay mb-open-popup happy-blue" data-src="http://www.jjjlandscaping.com.au/gallery/artturf/artturf-02-big.jpg">
+                        <div class="thumbnail-overlay mb-open-popup happy-blue" data-src="gallery/artturf-02-big.jpg">
                             <div class="media-box-title">Artificial Turf</div>
 
                         </div>
@@ -193,9 +193,9 @@
                 <!-- -------------------------- conc 02 -------------------------- -->
                 <div class="media-box concrete">
                     <div class="media-box-image mb-open-popup" data-type="inline">
-                        <div data-width="240" data-height="160" data-thumbnail="http://www.jjjlandscaping.com.au/gallery/concreting/concrete-02.jpg" ></div>
+                        <div data-width="240" data-height="160" data-thumbnail="gallery/concrete-02.jpg" ></div>
 
-                        <div class="thumbnail-overlay mb-open-popup happy-blue" data-src="http://www.jjjlandscaping.com.au/gallery/concreting/concrete-02-big.jpg">
+                        <div class="thumbnail-overlay mb-open-popup happy-blue" data-src="gallery/concrete-02-big.jpg">
                             <div class="media-box-title">Concreting</div>
 
                         </div>
@@ -204,9 +204,9 @@
                 <!-- -------------------------- deck 02 -------------------------- -->
                 <div class="media-box deck">
                     <div class="media-box-image mb-open-popup" data-type="inline">
-                        <div data-width="240" data-height="160" data-thumbnail="http://www.jjjlandscaping.com.au/gallery/deck/deck-02.jpg" ></div>
+                        <div data-width="240" data-height="160" data-thumbnail="gallery/deck-02.jpg" ></div>
 
-                        <div class="thumbnail-overlay mb-open-popup happy-blue" data-src="http://www.jjjlandscaping.com.au/gallery/deck/deck-02-big.jpg">
+                        <div class="thumbnail-overlay mb-open-popup happy-blue" data-src="gallery/deck-02-big.jpg">
                             <div class="media-box-title">Decking</div>
 
                         </div>
@@ -216,9 +216,9 @@
                 <!-- -------------------------- play 01 -------------------------- -->
                 <div class="media-box play" data-columns="2">
                     <div class="media-box-image mb-open-popup" data-type="inline">
-                        <div data-width="240" data-height="160" data-thumbnail="http://www.jjjlandscaping.com.au/gallery/play/play-01.jpg" ></div>
+                        <div data-width="240" data-height="160" data-thumbnail="gallery/play-01.jpg" ></div>
 
-                        <div class="thumbnail-overlay mb-open-popup happy-blue" data-src="http://www.jjjlandscaping.com.au/gallery/paving/paving-01-big.jpg">
+                        <div class="thumbnail-overlay mb-open-popup happy-blue" data-src="gallery/paving-01-big.jpg">
                             <div class="media-box-title">Playground & Childcare Landscaping</div>
 
                         </div>
@@ -228,9 +228,9 @@
                 <!-- -------------------------- fence 02 -------------------------- -->
                 <div class="media-box fence">
                     <div class="media-box-image mb-open-popup" data-type="inline">
-                        <div data-width="240" data-height="160" data-thumbnail="http://www.jjjlandscaping.com.au/gallery/fence/fence-02.jpg" ></div>
+                        <div data-width="240" data-height="160" data-thumbnail="gallery/fence-02.jpg" ></div>
 
-                        <div class="thumbnail-overlay mb-open-popup happy-blue" data-src="http://www.jjjlandscaping.com.au/gallery/fence/fence-02-big.jpg">
+                        <div class="thumbnail-overlay mb-open-popup happy-blue" data-src="gallery/fence-02-big.jpg">
                             <div class="media-box-title">Fencing</div>
 
                         </div>
@@ -240,9 +240,9 @@
                 <!-- -------------------------- paving 02 -------------------------- -->
                 <div class="media-box paving" data-columns="2">
                     <div class="media-box-image mb-open-popup" data-type="inline">
-                        <div data-width="240" data-height="160" data-thumbnail="http://www.jjjlandscaping.com.au/gallery/paving/paving-02.jpg" ></div>
+                        <div data-width="240" data-height="160" data-thumbnail="gallery/paving-02.jpg" ></div>
 
-                        <div class="thumbnail-overlay mb-open-popup happy-blue" data-src="http://www.jjjlandscaping.com.au/gallery/paving/paving-02-big.jpg">
+                        <div class="thumbnail-overlay mb-open-popup happy-blue" data-src="gallery/paving-02-big.jpg">
                             <div class="media-box-title">Paving and Tiling</div>
 
                         </div>
@@ -252,9 +252,9 @@
                 <!-- -------------------------- realturf 02 -------------------------- -->
                 <div class="media-box realturf" data-columns="2">
                     <div class="media-box-image mb-open-popup" data-type="inline">
-                        <div data-width="240" data-height="160" data-thumbnail="http://www.jjjlandscaping.com.au/gallery/realturf/realturf-05.jpg" ></div>
+                        <div data-width="240" data-height="160" data-thumbnail="gallery/realturf-05.jpg" ></div>
 
-                        <div class="thumbnail-overlay mb-open-popup happy-blue" data-src="http://www.jjjlandscaping.com.au/gallery/realturf/realturf-05-big.jpg">
+                        <div class="thumbnail-overlay mb-open-popup happy-blue" data-src="gallery/realturf-05-big.jpg">
                             <div class="media-box-title">Real Turf</div>
 
                         </div>
@@ -265,9 +265,9 @@
                 <!-- -------------------------- walls 02 -------------------------- -->
                 <div class="media-box walls">
                     <div class="media-box-image mb-open-popup" data-type="inline">
-                        <div data-width="240" data-height="160" data-thumbnail="http://www.jjjlandscaping.com.au/gallery/walls/walls-02.jpg" ></div>
+                        <div data-width="240" data-height="160" data-thumbnail="gallery/walls-02.jpg" ></div>
 
-                        <div class="thumbnail-overlay mb-open-popup happy-blue" data-src="http://www.jjjlandscaping.com.au/gallery/walls/walls-02-big.jpg">
+                        <div class="thumbnail-overlay mb-open-popup happy-blue" data-src="gallery/walls-02-big.jpg">
                             <div class="media-box-title">Retaining Walls</div>
 
                         </div>
@@ -277,9 +277,9 @@
                 <!-- -------------------------- art 03 -------------------------- -->
                 <div class="media-box artturf">
                     <div class="media-box-image mb-open-popup" data-type="inline">
-                        <div data-width="240" data-height="160" data-thumbnail="http://www.jjjlandscaping.com.au/gallery/artturf/artturf-03.jpg" ></div>
+                        <div data-width="240" data-height="160" data-thumbnail="gallery/artturf-03.jpg" ></div>
 
-                        <div class="thumbnail-overlay mb-open-popup happy-blue" data-src="http://www.jjjlandscaping.com.au/gallery/artturf/artturf-03-big.jpg">
+                        <div class="thumbnail-overlay mb-open-popup happy-blue" data-src="gallery/artturf-03-big.jpg">
                             <div class="media-box-title">Artificial Turf</div>
 
                         </div>
@@ -288,9 +288,9 @@
                 <!-- -------------------------- deck 03 -------------------------- -->
                 <div class="media-box deck">
                     <div class="media-box-image mb-open-popup" data-type="inline">
-                        <div data-width="240" data-height="160" data-thumbnail="http://www.jjjlandscaping.com.au/gallery/deck/deck-03.jpg" ></div>
+                        <div data-width="240" data-height="160" data-thumbnail="gallery/deck-03.jpg" ></div>
 
-                        <div class="thumbnail-overlay mb-open-popup happy-blue" data-src="http://www.jjjlandscaping.com.au/gallery/deck/deck-03-big.jpg">
+                        <div class="thumbnail-overlay mb-open-popup happy-blue" data-src="gallery/deck-03-big.jpg">
                             <div class="media-box-title">Decking</div>
 
                         </div>
@@ -300,9 +300,9 @@
                 <!-- -------------------------- realturf 03 -------------------------- -->
                 <div class="media-box realturf" >
                     <div class="media-box-image mb-open-popup" data-type="inline">
-                        <div data-width="240" data-height="160" data-thumbnail="http://www.jjjlandscaping.com.au/gallery/realturf/realturf-03.jpg" ></div>
+                        <div data-width="240" data-height="160" data-thumbnail="gallery/realturf-03.jpg" ></div>
 
-                        <div class="thumbnail-overlay mb-open-popup happy-blue" data-src="http://www.jjjlandscaping.com.au/gallery/realturf/realturf-03-big.jpg">
+                        <div class="thumbnail-overlay mb-open-popup happy-blue" data-src="gallery/realturf-03-big.jpg">
                             <div class="media-box-title">Real Turf</div>
 
                         </div>
@@ -313,9 +313,9 @@
                 <!-- -------------------------- gm -------------------------- -->
                 <div class="media-box garden" >
                     <div class="media-box-image mb-open-popup" data-type="inline">
-                        <div data-width="240" data-height="160" data-thumbnail="http://www.jjjlandscaping.com.au/gallery/gm/gm-01.jpg" ></div>
+                        <div data-width="240" data-height="160" data-thumbnail="gallery/gm-01.jpg" ></div>
 
-                        <div class="thumbnail-overlay mb-open-popup happy-blue" data-src="http://www.jjjlandscaping.com.au/gallery/gm/gm-01-big.jpg">
+                        <div class="thumbnail-overlay mb-open-popup happy-blue" data-src="gallery/gm-01-big.jpg">
                             <div class="media-box-title">Garden Maintenance</div>
 
                         </div>
@@ -325,9 +325,9 @@
                 <!-- -------------------------- concrete -------------------------- -->
                 <div class="media-box concrete" >
                     <div class="media-box-image mb-open-popup" data-type="inline">
-                        <div data-width="240" data-height="160" data-thumbnail="http://www.jjjlandscaping.com.au/gallery/concreting/concrete-04.jpg" ></div>
+                        <div data-width="240" data-height="160" data-thumbnail="gallery/concrete-04.jpg" ></div>
 
-                        <div class="thumbnail-overlay mb-open-popup happy-blue" data-src="http://www.jjjlandscaping.com.au/gallery/concreting/concrete-04-big.jpg">
+                        <div class="thumbnail-overlay mb-open-popup happy-blue" data-src="gallery/concrete-04-big.jpg">
                             <div class="media-box-title">Concreting</div>
 
                         </div>
@@ -337,9 +337,9 @@
                 <!-- -------------------------- paving -------------------------- -->
                 <div class="media-box paving" data-columns="2">
                     <div class="media-box-image mb-open-popup" data-type="inline">
-                        <div data-width="240" data-height="160" data-thumbnail="http://www.jjjlandscaping.com.au/gallery/paving/paving-04.jpg" ></div>
+                        <div data-width="240" data-height="160" data-thumbnail="gallery/paving-04.jpg" ></div>
 
-                        <div class="thumbnail-overlay mb-open-popup happy-blue" data-src="http://www.jjjlandscaping.com.au/gallery/paving/paving-04-big.jpg">
+                        <div class="thumbnail-overlay mb-open-popup happy-blue" data-src="gallery/paving-04-big.jpg">
                             <div class="media-box-title">Paving and Tiling</div>
 
                         </div>
@@ -349,9 +349,9 @@
                 <!-- -------------------------- fence -------------------------- -->
                 <div class="media-box fence" >
                     <div class="media-box-image mb-open-popup" data-type="inline">
-                        <div data-width="240" data-height="160" data-thumbnail="http://www.jjjlandscaping.com.au/gallery/fence/fence-03.jpg" ></div>
+                        <div data-width="240" data-height="160" data-thumbnail="gallery/fence-03.jpg" ></div>
 
-                        <div class="thumbnail-overlay mb-open-popup happy-blue" data-src="http://www.jjjlandscaping.com.au/gallery/fence/fence-03-big.jpg">
+                        <div class="thumbnail-overlay mb-open-popup happy-blue" data-src="gallery/fence-03-big.jpg">
                             <div class="media-box-title">Fencing</div>
 
                         </div>
@@ -361,9 +361,9 @@
                 <!-- -------------------------- planting -------------------------- -->
                 <div class="media-box planting" >
                     <div class="media-box-image mb-open-popup" data-type="inline">
-                        <div data-width="240" data-height="160" data-thumbnail="http://www.jjjlandscaping.com.au/gallery/planting/planting-03.jpg" ></div>
+                        <div data-width="240" data-height="160" data-thumbnail="gallery/planting-03.jpg" ></div>
 
-                        <div class="thumbnail-overlay mb-open-popup happy-blue" data-src="http://www.jjjlandscaping.com.au/gallery/planting/planting-03-big.jpg">
+                        <div class="thumbnail-overlay mb-open-popup happy-blue" data-src="gallery/planting-03-big.jpg">
                             <div class="media-box-title">Planting</div>
 
                         </div>
@@ -373,9 +373,9 @@
                 <!-- -------------------------- realturf -------------------------- -->
                 <div class="media-box realturf" >
                     <div class="media-box-image mb-open-popup" data-type="inline">
-                        <div data-width="240" data-height="160" data-thumbnail="http://www.jjjlandscaping.com.au/gallery/realturf/realturf-04.jpg" ></div>
+                        <div data-width="240" data-height="160" data-thumbnail="gallery/realturf-04.jpg" ></div>
 
-                        <div class="thumbnail-overlay mb-open-popup happy-blue" data-src="http://www.jjjlandscaping.com.au/gallery/realturf/realturf-04-big.jpg">
+                        <div class="thumbnail-overlay mb-open-popup happy-blue" data-src="gallery/realturf-04-big.jpg">
                             <div class="media-box-title">Real Turf</div>
 
                         </div>
@@ -385,9 +385,9 @@
                 <!-- -------------------------- walls -------------------------- -->
                 <div class="media-box walls" >
                     <div class="media-box-image mb-open-popup" data-type="inline">
-                        <div data-width="240" data-height="160" data-thumbnail="http://www.jjjlandscaping.com.au/gallery/walls/walls-03.jpg" ></div>
+                        <div data-width="240" data-height="160" data-thumbnail="gallery/walls-03.jpg" ></div>
 
-                        <div class="thumbnail-overlay mb-open-popup happy-blue" data-src="http://www.jjjlandscaping.com.au/gallery/walls/walls-03-big.jpg">
+                        <div class="thumbnail-overlay mb-open-popup happy-blue" data-src="gallery/walls-03-big.jpg">
                             <div class="media-box-title">Retaining Walls</div>
 
                         </div>
@@ -397,9 +397,9 @@
                 <!-- -------------------------- reno -------------------------- -->
                 <div class="media-box reno" data-columns="2" >
                     <div class="media-box-image mb-open-popup" data-type="inline">
-                        <div data-width="240" data-height="160" data-thumbnail="http://www.jjjlandscaping.com.au/gallery/reno/reno-01.jpg" ></div>
+                        <div data-width="240" data-height="160" data-thumbnail="gallery/reno-01.jpg" ></div>
 
-                        <div class="thumbnail-overlay mb-open-popup happy-blue" data-src="http://www.jjjlandscaping.com.au/gallery/reno/reno-01-big.jpg">
+                        <div class="thumbnail-overlay mb-open-popup happy-blue" data-src="gallery/reno-01-big.jpg">
                             <div class="media-box-title">Residential Rennovation</div>
 
                         </div>
@@ -409,9 +409,9 @@
                 <!-- -------------------------- gm -------------------------- -->
                 <div class="media-box garden"  >
                     <div class="media-box-image mb-open-popup" data-type="inline">
-                        <div data-width="240" data-height="160" data-thumbnail="http://www.jjjlandscaping.com.au/gallery/gm/gm-02.jpg" ></div>
+                        <div data-width="240" data-height="160" data-thumbnail="gallery/gm-02.jpg" ></div>
 
-                        <div class="thumbnail-overlay mb-open-popup happy-blue" data-src="http://www.jjjlandscaping.com.au/gallery/gm/gm-02-big.jpg">
+                        <div class="thumbnail-overlay mb-open-popup happy-blue" data-src="gallery/gm-02-big.jpg">
                             <div class="media-box-title">Garden Maintenance</div>
 
                         </div>
@@ -421,9 +421,9 @@
                 <!-- -------------------------- artturf -------------------------- -->
                 <div class="media-box artturf" >
                     <div class="media-box-image mb-open-popup" data-type="inline">
-                        <div data-width="240" data-height="160" data-thumbnail="http://www.jjjlandscaping.com.au/gallery/etc/etc-01.jpg" ></div>
+                        <div data-width="240" data-height="160" data-thumbnail="gallery/etc-01.jpg" ></div>
 
-                        <div class="thumbnail-overlay mb-open-popup happy-blue" data-src="http://www.jjjlandscaping.com.au/gallery/etc/etc-01-big.jpg">
+                        <div class="thumbnail-overlay mb-open-popup happy-blue" data-src="gallery/etc-01-big.jpg">
                             <div class="media-box-title">Artificial Turf</div>
 
                         </div>
@@ -433,9 +433,9 @@
                 <!-- -------------------------- deck -------------------------- -->
                 <div class="media-box deck"  >
                     <div class="media-box-image mb-open-popup" data-type="inline">
-                        <div data-width="240" data-height="160" data-thumbnail="http://www.jjjlandscaping.com.au/gallery/deck/deck-05.jpg" ></div>
+                        <div data-width="240" data-height="160" data-thumbnail="gallery/deck-05.jpg" ></div>
 
-                        <div class="thumbnail-overlay mb-open-popup happy-blue" data-src="http://www.jjjlandscaping.com.au/gallery/deck/deck-05-big.jpg">
+                        <div class="thumbnail-overlay mb-open-popup happy-blue" data-src="gallery/deck-05-big.jpg">
                             <div class="media-box-title">Decking</div>
 
                         </div>
@@ -445,9 +445,9 @@
                 <!-- -------------------------- fence -------------------------- -->
                 <div class="media-box fence"  >
                     <div class="media-box-image mb-open-popup" data-type="inline">
-                        <div data-width="240" data-height="160" data-thumbnail="http://www.jjjlandscaping.com.au/gallery/fence/fence-04.jpg" ></div>
+                        <div data-width="240" data-height="160" data-thumbnail="gallery/fence-04.jpg" ></div>
 
-                        <div class="thumbnail-overlay mb-open-popup happy-blue" data-src="http://www.jjjlandscaping.com.au/gallery/fence/fence-04.jpg">
+                        <div class="thumbnail-overlay mb-open-popup happy-blue" data-src="gallery/fence-04.jpg">
                             <div class="media-box-title">Fencing</div>
 
                         </div>
@@ -457,9 +457,9 @@
                 <!-- -------------------------- paving -------------------------- -->
                 <div class="media-box paving"  >
                     <div class="media-box-image mb-open-popup" data-type="inline">
-                        <div data-width="240" data-height="160" data-thumbnail="http://www.jjjlandscaping.com.au/gallery/paving/paving-05.jpg" ></div>
+                        <div data-width="240" data-height="160" data-thumbnail="gallery/paving-05.jpg" ></div>
 
-                        <div class="thumbnail-overlay mb-open-popup happy-blue" data-src="http://www.jjjlandscaping.com.au/gallery/paving/paving-05-big.jpg">
+                        <div class="thumbnail-overlay mb-open-popup happy-blue" data-src="gallery/paving-05-big.jpg">
                             <div class="media-box-title">Paving and Tiling</div>
 
                         </div>
@@ -469,9 +469,9 @@
                 <!-- -------------------------- planting -------------------------- -->
                 <div class="media-box planting"  >
                     <div class="media-box-image mb-open-popup" data-type="inline">
-                        <div data-width="240" data-height="160" data-thumbnail="http://www.jjjlandscaping.com.au/gallery/planting/planting-04.jpg" ></div>
+                        <div data-width="240" data-height="160" data-thumbnail="gallery/planting-04.jpg" ></div>
 
-                        <div class="thumbnail-overlay mb-open-popup happy-blue" data-src="http://www.jjjlandscaping.com.au/gallery/planting/planting-04-big.jpg">
+                        <div class="thumbnail-overlay mb-open-popup happy-blue" data-src="gallery/planting-04-big.jpg">
                             <div class="media-box-title">Planting</div>
 
                         </div>
@@ -481,9 +481,9 @@
                 <!-- -------------------------- realturf -------------------------- -->
                 <div class="media-box realturf"  >
                     <div class="media-box-image mb-open-popup" data-type="inline">
-                        <div data-width="240" data-height="160" data-thumbnail="http://www.jjjlandscaping.com.au/gallery/realturf/realturf-06.jpg" ></div>
+                        <div data-width="240" data-height="160" data-thumbnail="gallery/realturf-06.jpg" ></div>
 
-                        <div class="thumbnail-overlay mb-open-popup happy-blue" data-src="http://www.jjjlandscaping.com.au/gallery/realturf/realturf-06-big.jpg">
+                        <div class="thumbnail-overlay mb-open-popup happy-blue" data-src="gallery/realturf-06-big.jpg">
                             <div class="media-box-title">Real Turf</div>
 
                         </div>
@@ -493,9 +493,9 @@
                 <!-- -------------------------- concrete -------------------------- -->
                 <div class="media-box concrete"  >
                     <div class="media-box-image mb-open-popup" data-type="inline">
-                        <div data-width="240" data-height="160" data-thumbnail="http://www.jjjlandscaping.com.au/gallery/concreting/concrete-05.jpg" ></div>
+                        <div data-width="240" data-height="160" data-thumbnail="gallery/concrete-05.jpg" ></div>
 
-                        <div class="thumbnail-overlay mb-open-popup happy-blue" data-src="http://www.jjjlandscaping.com.au/gallery/concreting/concrete-05-big.jpg">
+                        <div class="thumbnail-overlay mb-open-popup happy-blue" data-src="gallery/concrete-05-big.jpg">
                             <div class="media-box-title">Concreting</div>
 
                         </div>
@@ -505,9 +505,9 @@
                 <!-- -------------------------- reno -------------------------- -->
                 <div class="media-box reno" data-columns="2">
                     <div class="media-box-image mb-open-popup" data-type="inline">
-                        <div data-width="240" data-height="160" data-thumbnail="http://www.jjjlandscaping.com.au/gallery/reno/reno-02.jpg" ></div>
+                        <div data-width="240" data-height="160" data-thumbnail="gallery/reno-02.jpg" ></div>
 
-                        <div class="thumbnail-overlay mb-open-popup happy-blue" data-src="http://www.jjjlandscaping.com.au/gallery/reno/reno-02-big.jpg">
+                        <div class="thumbnail-overlay mb-open-popup happy-blue" data-src="gallery/reno-02-big.jpg">
                             <div class="media-box-title">Residential Renovation</div>
 
                         </div>
@@ -517,9 +517,9 @@
                 <!-- -------------------------- reno -------------------------- -->
                 <div class="media-box reno">
                     <div class="media-box-image mb-open-popup" data-type="inline">
-                        <div data-width="240" data-height="160" data-thumbnail="http://www.jjjlandscaping.com.au/gallery/reno/reno-03.jpg" ></div>
+                        <div data-width="240" data-height="160" data-thumbnail="gallery/reno-03.jpg" ></div>
 
-                        <div class="thumbnail-overlay mb-open-popup happy-blue" data-src="http://www.jjjlandscaping.com.au/gallery/reno/reno-03-big.jpg">
+                        <div class="thumbnail-overlay mb-open-popup happy-blue" data-src="gallery/reno-03-big.jpg">
                             <div class="media-box-title">Residential Renovation</div>
 
                         </div>
@@ -529,9 +529,9 @@
                 <!-- -------------------------- walls -------------------------- -->
                 <div class="media-box walls">
                     <div class="media-box-image mb-open-popup" data-type="inline">
-                        <div data-width="240" data-height="160" data-thumbnail="http://www.jjjlandscaping.com.au/gallery/walls/walls-04.jpg" ></div>
+                        <div data-width="240" data-height="160" data-thumbnail="gallery/walls-04.jpg" ></div>
 
-                        <div class="thumbnail-overlay mb-open-popup happy-blue" data-src="http://www.jjjlandscaping.com.au/gallery/walls/walls-04-big.jpg">
+                        <div class="thumbnail-overlay mb-open-popup happy-blue" data-src="gallery/walls-04-big.jpg">
                             <div class="media-box-title">Retaining Walls</div>
 
                         </div>
@@ -541,9 +541,9 @@
                 <!-- -------------------------- paving -------------------------- -->
                 <div class="media-box paving">
                     <div class="media-box-image mb-open-popup" data-type="inline">
-                        <div data-width="240" data-height="160" data-thumbnail="http://www.jjjlandscaping.com.au/gallery/paving/paving-06.jpg" ></div>
+                        <div data-width="240" data-height="160" data-thumbnail="gallery/paving-06.jpg" ></div>
 
-                        <div class="thumbnail-overlay mb-open-popup happy-blue" data-src="http://www.jjjlandscaping.com.au/gallery/paving/paving-06-big.jpg">
+                        <div class="thumbnail-overlay mb-open-popup happy-blue" data-src="gallery/paving-06-big.jpg">
                             <div class="media-box-title">Paving and Tiling</div>
 
                         </div>
@@ -553,9 +553,9 @@
                 <!-- -------------------------- walls -------------------------- -->
                 <div class="media-box walls">
                     <div class="media-box-image mb-open-popup" data-type="inline">
-                        <div data-width="240" data-height="160" data-thumbnail="http://www.jjjlandscaping.com.au/gallery/walls/walls-05.jpg" ></div>
+                        <div data-width="240" data-height="160" data-thumbnail="gallery/walls-05.jpg" ></div>
 
-                        <div class="thumbnail-overlay mb-open-popup happy-blue" data-src="http://www.jjjlandscaping.com.au/gallery/walls/walls-05-big.jpg">
+                        <div class="thumbnail-overlay mb-open-popup happy-blue" data-src="gallery/walls-05-big.jpg">
                             <div class="media-box-title">Retaining Walls</div>
 
                         </div>
@@ -565,9 +565,9 @@
                 <!-- -------------------------- art 07 -------------------------- -->
                 <div class="media-box artturf">
                     <div class="media-box-image mb-open-popup" data-type="inline">
-                        <div data-width="240" data-height="160" data-thumbnail="http://www.jjjlandscaping.com.au/gallery/artturf/artturf-07.jpg" ></div>
+                        <div data-width="240" data-height="160" data-thumbnail="gallery/artturf-07.jpg" ></div>
 
-                        <div class="thumbnail-overlay mb-open-popup happy-blue" data-src="http://www.jjjlandscaping.com.au/gallery/artturf/artturf-07-big.jpg">
+                        <div class="thumbnail-overlay mb-open-popup happy-blue" data-src="gallery/artturf-07-big.jpg">
                             <div class="media-box-title">Artificial Turf</div>
 
                         </div>
@@ -577,9 +577,9 @@
                 <!-- -------------------------- deck 06 -------------------------- -->
                 <div class="media-box deck">
                     <div class="media-box-image mb-open-popup" data-type="inline">
-                        <div data-width="240" data-height="160" data-thumbnail="http://www.jjjlandscaping.com.au/gallery/deck/deck-06.jpg" ></div>
+                        <div data-width="240" data-height="160" data-thumbnail="gallery/deck-06.jpg" ></div>
 
-                        <div class="thumbnail-overlay mb-open-popup happy-blue" data-src="http://www.jjjlandscaping.com.au/gallery/deck/deck-06-big.jpg">
+                        <div class="thumbnail-overlay mb-open-popup happy-blue" data-src="gallery/deck-06-big.jpg">
                             <div class="media-box-title">Decking</div>
 
                         </div>
@@ -589,9 +589,9 @@
                 <!-- -------------------------- planting 05 -------------------------- -->
                 <div class="media-box planting">
                     <div class="media-box-image mb-open-popup" data-type="inline">
-                        <div data-width="240" data-height="160" data-thumbnail="http://www.jjjlandscaping.com.au/gallery/planting/planting-05.jpg" ></div>
+                        <div data-width="240" data-height="160" data-thumbnail="gallery/planting-05.jpg" ></div>
 
-                        <div class="thumbnail-overlay mb-open-popup happy-blue" data-src="http://www.jjjlandscaping.com.au/gallery/planting/planting-05-big.jpg">
+                        <div class="thumbnail-overlay mb-open-popup happy-blue" data-src="gallery/planting-05-big.jpg">
                             <div class="media-box-title">Planting</div>
 
                         </div>
@@ -601,9 +601,9 @@
                 <!-- -------------------------- planting 06 -------------------------- -->
                 <div class="media-box planting">
                     <div class="media-box-image mb-open-popup" data-type="inline">
-                        <div data-width="240" data-height="160" data-thumbnail="http://www.jjjlandscaping.com.au/gallery/planting/planting-06.jpg" ></div>
+                        <div data-width="240" data-height="160" data-thumbnail="gallery/planting-06.jpg" ></div>
 
-                        <div class="thumbnail-overlay mb-open-popup happy-blue" data-src="http://www.jjjlandscaping.com.au/gallery/planting/planting-06-big.jpg">
+                        <div class="thumbnail-overlay mb-open-popup happy-blue" data-src="gallery/planting-06-big.jpg">
                             <div class="media-box-title">Planting</div>
 
                         </div>
@@ -613,9 +613,9 @@
                 <!-- -------------------------- planting 07 -------------------------- -->
                 <div class="media-box planting">
                     <div class="media-box-image mb-open-popup" data-type="inline">
-                        <div data-width="240" data-height="160" data-thumbnail="http://www.jjjlandscaping.com.au/gallery/planting/planting-07.jpg" ></div>
+                        <div data-width="240" data-height="160" data-thumbnail="gallery/planting-07.jpg" ></div>
 
-                        <div class="thumbnail-overlay mb-open-popup happy-blue" data-src="http://www.jjjlandscaping.com.au/gallery/planting/planting-07-big.jpg">
+                        <div class="thumbnail-overlay mb-open-popup happy-blue" data-src="gallery/planting-07-big.jpg">
                             <div class="media-box-title">Planting</div>
 
                         </div>
@@ -625,9 +625,9 @@
                 <!-- -------------------------- paving 07 -------------------------- -->
                 <div class="media-box paving" data-columns="2">
                     <div class="media-box-image mb-open-popup" data-type="inline">
-                        <div data-width="240" data-height="160" data-thumbnail="http://www.jjjlandscaping.com.au/gallery/paving/paving-07.jpg" ></div>
+                        <div data-width="240" data-height="160" data-thumbnail="gallery/paving-07.jpg" ></div>
 
-                        <div class="thumbnail-overlay mb-open-popup happy-blue" data-src="http://www.jjjlandscaping.com.au/gallery/paving/paving-07-big.jpg">
+                        <div class="thumbnail-overlay mb-open-popup happy-blue" data-src="gallery/paving-07-big.jpg">
                             <div class="media-box-title">Paving and Tiling</div>
 
                         </div>
@@ -637,9 +637,9 @@
                 <!-- -------------------------- play 02 -------------------------- -->
                 <div class="media-box play">
                     <div class="media-box-image mb-open-popup" data-type="inline">
-                        <div data-width="240" data-height="160" data-thumbnail="http://www.jjjlandscaping.com.au/gallery/play/play-02.jpg" ></div>
+                        <div data-width="240" data-height="160" data-thumbnail="gallery/play-02.jpg" ></div>
 
-                        <div class="thumbnail-overlay mb-open-popup happy-blue" data-src="http://www.jjjlandscaping.com.au/gallery/paving/paving-02-big.jpg">
+                        <div class="thumbnail-overlay mb-open-popup happy-blue" data-src="gallery/paving-02-big.jpg">
                             <div class="media-box-title">Playground & Childcare Landscaping</div>
 
                         </div>
@@ -649,9 +649,9 @@
                 <!-- -------------------------- play 03 -------------------------- -->
                 <div class="media-box play">
                     <div class="media-box-image mb-open-popup" data-type="inline">
-                        <div data-width="240" data-height="160" data-thumbnail="http://www.jjjlandscaping.com.au/gallery/play/play-03.jpg" ></div>
+                        <div data-width="240" data-height="160" data-thumbnail="gallery/play-03.jpg" ></div>
 
-                        <div class="thumbnail-overlay mb-open-popup happy-blue" data-src="http://www.jjjlandscaping.com.au/gallery/paving/paving-03-big.jpg">
+                        <div class="thumbnail-overlay mb-open-popup happy-blue" data-src="gallery/paving-03-big.jpg">
                             <div class="media-box-title">Playground & Childcare Landscaping</div>
 
                         </div>
@@ -661,9 +661,9 @@
                 <!-- -------------------------- play 04 -------------------------- -->
                 <div class="media-box play">
                     <div class="media-box-image mb-open-popup" data-type="inline">
-                        <div data-width="240" data-height="160" data-thumbnail="http://www.jjjlandscaping.com.au/gallery/play/play-04.jpg" ></div>
+                        <div data-width="240" data-height="160" data-thumbnail="gallery/play-04.jpg" ></div>
 
-                        <div class="thumbnail-overlay mb-open-popup happy-blue" data-src="http://www.jjjlandscaping.com.au/gallery/paving/paving-04-big.jpg">
+                        <div class="thumbnail-overlay mb-open-popup happy-blue" data-src="gallery/paving-04-big.jpg">
                             <div class="media-box-title">Playground & Childcare Landscaping</div>
 
                         </div>
@@ -673,9 +673,9 @@
                 <!-- -------------------------- play 05 -------------------------- -->
                 <div class="media-box play">
                     <div class="media-box-image mb-open-popup" data-type="inline">
-                        <div data-width="240" data-height="160" data-thumbnail="http://www.jjjlandscaping.com.au/gallery/play/play-05.jpg" ></div>
+                        <div data-width="240" data-height="160" data-thumbnail="gallery/play-05.jpg" ></div>
 
-                        <div class="thumbnail-overlay mb-open-popup happy-blue" data-src="http://www.jjjlandscaping.com.au/gallery/paving/paving-05-big.jpg">
+                        <div class="thumbnail-overlay mb-open-popup happy-blue" data-src="gallery/paving-05-big.jpg">
                             <div class="media-box-title">Playground & Childcare Landscaping</div>
 
                         </div>
@@ -685,9 +685,9 @@
                 <!-- -------------------------- play 06 -------------------------- -->
                 <div class="media-box play">
                     <div class="media-box-image mb-open-popup" data-type="inline">
-                        <div data-width="240" data-height="160" data-thumbnail="http://www.jjjlandscaping.com.au/gallery/play/play-06.jpg" ></div>
+                        <div data-width="240" data-height="160" data-thumbnail="gallery/play-06.jpg" ></div>
 
-                        <div class="thumbnail-overlay mb-open-popup happy-blue" data-src="http://www.jjjlandscaping.com.au/gallery/paving/paving-06-big.jpg">
+                        <div class="thumbnail-overlay mb-open-popup happy-blue" data-src="gallery/paving-06-big.jpg">
                             <div class="media-box-title">Playground & Childcare Landscaping</div>
 
                         </div>
