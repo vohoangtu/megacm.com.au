@@ -50,7 +50,7 @@ class ServiceAPI extends BaseController
             ],
             105 => [
                 "id" => 105,
-                "name" => "6 Bedroom house - $298",
+                "name" => "6 Bedroom house - $338",
                 "price" => 298,
             ],
             106 => [
@@ -80,7 +80,7 @@ class ServiceAPI extends BaseController
             ],
             113 => [
                 "id" => 113,
-                "name" => "6 Bedroom house - $427",
+                "name" => "6 Bedroom house - $458",
                 "price" => 427,
             ],
             112 => [
@@ -110,7 +110,7 @@ class ServiceAPI extends BaseController
             ],
             99 => [
                 "id" => 99,
-                "name" => "6 Bedroom house - $1040",
+                "name" => "6 Bedroom house - $780",
                 "price" => 1040,
             ],
             71 => [

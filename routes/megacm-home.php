@@ -4,8 +4,10 @@ use App\Http\Controllers\Home\BlogController;
 use App\Http\Controllers\Home\ContactController;
 use App\Http\Controllers\Home\FaqController;
 use App\Http\Controllers\Home\IndexController;
+use App\Http\Controllers\Home\LandScapingController;
 use App\Http\Controllers\Home\OrderController;
 use App\Http\Controllers\Home\PricingController;
+use App\Http\Controllers\Home\RenovationController;
 use App\Http\Controllers\Home\ServiceController;
 use Illuminate\Support\Facades\Route;
 
@@ -31,6 +33,16 @@ Route::name("home.")->group(function (){
     Route::get("faq", [IndexController::class, "index"])->name("faq");
     Route::get("review", [IndexController::class, "index"])->name("review");
     Route::get("login", [IndexController::class, "index"])->name("login");
+
+    Route::name("renovation.")->prefix("renovation")->group(function (){
+        Route::get("/", [RenovationController::class, "index"])->name("index");
+        Route::get("/{renovation}", [RenovationController::class, "renovation"])->name("renovation");
+    });
+    Route::name("landscaping.")->prefix("landscaping")->group(function (){
+        Route::get("/", [LandScapingController::class, "index"])->name("index");
+        Route::get("/{renovation}", [LandScapingController::class, "landscaping"])->name("landscaping");
+    });
+
 
 
     Route::name("services.")->prefix("services")->group(function (){

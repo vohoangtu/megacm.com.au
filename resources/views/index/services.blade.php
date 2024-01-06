@@ -1,5 +1,51 @@
 @extends("index.layouts.app")
 @section("content")
+    <div class="block py-5 bg-grey">
+        <div class="container">
+            <h3 class="h3-title text-center"><span>SUPERIOR CLEANING SERVICE AT A VERY COMPETITIVE PRICE</span></h3>
+            <div class="w-100 d-flex justify-content-evenly my-4">
+                <div class="__image">
+                    <img class="img-fluid" src="https://www.maidforyou.com.au/wp-content/uploads/2023/01/Book-Your-Cleaning.png" alt="https://www.maidforyou.com.au/wp-content/uploads/2023/01/Book-Your-Cleaning.png">
+                </div>
+                <div class="__image">
+                    <img class="img-fluid" src="https://www.maidforyou.com.au/wp-content/uploads/2023/01/Book-Your-Cleaning-with-maidforyou.png" alt="https://www.maidforyou.com.au/wp-content/uploads/2023/01/Book-Your-Cleaning-with-maidforyou.png">
+                </div>
+                <div class="__image">
+                    <img class="img-fluid" src="https://www.maidforyou.com.au/wp-content/uploads/2023/01/Book-Your-Cleaning-with-us1.png" alt="https://www.maidforyou.com.au/wp-content/uploads/2023/01/Book-Your-Cleaning.png">
+                </div>
+            </div>
+            <div class="fl-rich-text">
+                At MegaMC, we commit to deliver our promise in making your spaces fresh, shine,
+                hassle free - vibe and leaving no corners unturned.  Our team members are thoroughly
+
+                trained in the latest cleaning products, tools, and techniques and take pride in every
+                space they clean!
+            </div>
+        </div>
+        <div class="container text-center">
+            <div class="row mt-3 mb-2">
+                <div class="col-md-6 col-12">
+                    <p class="text-cneter h3-title" style="font-size: 18px;">
+                        *Bonded &amp; Insured
+                    </p>
+                </div>
+                <div class="col-md-6 col-12">
+                    <p class="text-cneter h3-title" style="font-size: 18px;">*200% Satisfaction Guaranteed</p>
+                </div>
+                <div class="col-md-6 col-12">
+                    <p class="text-cneter h3-title" style="font-size: 18px;">
+                        *Environmentally Friendly Cleaning
+                    </p>
+                </div>
+                <div class="col-md-6 col-12">
+                    <p class="text-cneter h3-title" style="font-size: 18px;">
+                        *Fully Police checked
+                    </p>
+                </div>
+
+
+            </div>
+        </div>
     <div class="block py-5">
         <div class="container mw-1200">
             <h3 class="h3-title text-center">

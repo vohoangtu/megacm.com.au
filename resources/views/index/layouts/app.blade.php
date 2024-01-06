@@ -7,4 +7,5 @@
     @include("index.layouts.header")
     @yield("content")
     @include("index.layouts.footer")
+    @stack("home.footer.js")
 @endsection

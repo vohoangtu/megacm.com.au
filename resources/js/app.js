@@ -9,3 +9,4 @@ Alpine.start();
 const app = vue.createApp({});
 app.component("Cart", Cart);
 window.app = app;
+

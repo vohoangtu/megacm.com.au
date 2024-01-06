@@ -100,7 +100,13 @@
                     </div>
                 </div>
                 <div class="col-lg-5 order-0">
-                    {{ fake()->realText(1200) }}
+                    <p>Take a break and let us handle the cleaning for you. We understand that life can get busy, and cleaning is often the last thing you want to worry about. That's where we come in. Our professional cleaning service is here to make your life easier and your home cleaner.</p>
+                        <p>
+                    Our experienced team is skilled at tackling dirt, dust, and messes of all kinds. Whether it's your home, office, or any other space, we've got you covered. We use safe and effective cleaning methods and products to ensure your space is spotless and hygienic.
+                        </p>
+                    <p>
+                    With our cleaning service, you can reclaim your time and enjoy a fresh and tidy environment without lifting a finger. Say goodbye to the stress of cleaning chores and hello to a cleaner, more relaxing space. Leave the cleaning to us, so you can focus on the things you love.
+                    <p>
                 </div>
 
             </div>

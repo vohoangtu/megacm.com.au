@@ -47,10 +47,19 @@
                                 <span>Home</span>
                             </a>
                         </li>
-
+                        <li>
+                            <a href="{{ route("home.renovation.index") }}">
+                                <span>Renovation</span>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="{{ route("home.landscaping.index") }}">
+                                <span>Landscaping</span>
+                            </a>
+                        </li>
                         <li>
                             <a href="{{ route("home.services.index") }}">
-                                <span>Services</span>
+                                <span>Cleaning Services</span>
                             </a>
                             <ul>
                                 <li>
@@ -100,7 +109,7 @@
                                 </li>
                             </ul>
                         </li>
-                        <li>
+                        <li class="d-none">
                             <a href="{{ route("home.pricing.index") }}">
                                 <span>Pricing</span>
                             </a>
