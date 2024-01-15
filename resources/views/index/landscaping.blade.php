@@ -36,8 +36,23 @@
                     </div>
                 </div>
                 <div class="col-md p-5 bg-dkgreen">
-                    <h5> Whether it is a rental property that requires low maintenance landscaping; ‘ready-for-sale’; turn-key solution for project homes or an artistic design for an opulent home, we construct and deliver beautiful landscapes at a competitive rate. </h5>
-                    <h5 class="yellow mt-5">As licensed builders and proud members of housing and industry associations, we uphold the highest standards of workmanship and ethics ensuring 100% client satisfaction.</h5>
+                <p class="fw-medium fs-16">
+                    Your property’s appearance means a lot. It has the power to delight
+                    visitors, tenants, residents, customers, and more. Your smart choices
+                    can mean reduced liability, better profits, and lasting impressions. At
+                    Mega Construction &amp; Maintenance we believe in the power of beautiful,
+                    biodiverse landscapes of all scales to regenerate our environment. From
+                    the smallest residential garden to large rural properties, we strive to bring
+                    nature to people, and to draw people into nature and create havens of
+                    biodiversity and food abundance in the landscape. Our mission is simple,
+                    to offer high-quality, competitively priced residential and commercial
+                    landscapes and maintenance with exceptional workmanship,
+                    extraordinary service, and professional integrity. We will constantly
+                    evolve through education and innovative ideas to better our company
+                    and industry. We will understand and meet the needs of every single
+                    customer. We view ourselves as partners with our clients, our
+                    employees, our community, and our environment.
+                </p>
                 </div>
 
 

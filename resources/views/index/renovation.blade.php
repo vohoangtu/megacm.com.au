@@ -5,16 +5,46 @@
         <div class="container">
             <div class="row py-5">
                 <div class="row">
-                    <h5>We pride ourselves in offering the highest level of service and quality, taking full ownership on every project we work on. We handle all design work, building approvals, materials and labour for you. Our team of experts alleviate the stress and hassles normally associated with renovation projects, leaving you to only think about the end result and value added to your home or investment property.</h5>
+                    <p>
+                        Mega Construction &amp; Maintenance strives to be the contractor of
+                        choice by providing outstanding, high quality and affordable
+                        remodelling services, value with honest trades people in an
+                        environment of integrity and trust building on our reputation of
+                        professionalism, consistency in our services and products,
+                        responsiveness to clients and use of innovative and traditional quality
+                        solutions. We commit to fulfil all contractual obligations and commit to
+                        exceed the expectations of our customers.
+                    </p>
+                    <p>
+                        Mega Construction &amp; Maintenance encourages personal and
+                        professional growth of every employee. Management promotes a
+                        corporate culture based on performance, accountability, mutual trust,
+                        respect of the individual, and commitment to common goals. We are
+                        dedicated to providing excellent construction services with our
+                        primary concern being quality, safety, integrity, and professionalism.
+                    </p>
+                </div>
+                <div class="row">
+                    <p class="fw-medium"><span class="fa fa-star" style="color: #038732"></span> Teamwork – working together as the Mega Construction &amp;
+                        Maintenance family</p>
+                    <p class="fw-medium"><span class="fa fa-star" style="color: #038732"></span> Responsibility – taking ownership of the task in hand</p>
+                    <p class="fw-medium"><span class="fa fa-star" style="color: #038732"></span> Understanding – knowing our business and our clients’ business</p>
+                    <p class="fw-medium"><span class="fa fa-star" style="color: #038732"></span> Standards – acting ethically whilst exceeding the brief</p>
+                    <p class="fw-medium"><span class="fa fa-star" style="color: #038732"></span> Tenacity – approaching challenges through innovative solutions</p>
                 </div>
             </div>
         </div>
     </section>
-
     <!--  intro -->
     <section class="p-5 bg-gray">
         <div class="container">
-
+            <div class="main-title text-center">
+                <h3 class="h3-title">
+                    <span>
+                       Our customers love our latest projects
+                    </span>
+                </h3>
+            </div>
             <div class="row no-gutters py-5 px-5">
                 <div class="col-sm-6"><img src="gallery/reno-01-big.jpg" class="img-fluid" data-aos="fade-up" data-aos-duration="1500"></div>
                 <div class="col-sm-6"><img src="gallery/reno-01-big-b.jpg" class="img-fluid bw" data-aos="fade-down" ></div>

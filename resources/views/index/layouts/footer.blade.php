@@ -36,6 +36,35 @@
 {{--                               <a href="{{ route("home.review") }}">Reviews</a>--}}
                            </p>
                        </div>
+                       <div class="textwidget">
+                           <h3>Follow us</h3>
+                           <ul class="blog-services d-flex list-unstyled p-0">
+                               <li>
+                                   <a href="https://www.facebook.com/megacleaningmaintain">
+                                       <div class="side-img">
+                                           <i class="fab fa-facebook-f"></i>
+                                       </div>
+                                       <div class="sid_content">FACEBOOK</div>
+                                   </a>
+                               </li>
+                               <li>
+                                   <a href="{{url()->to("/")}}">
+                                       <div class="side-img">
+                                           <i class="fab fa-twitter"></i>
+                                       </div>
+                                       <div class="sid_content">TWITTER</div>
+                                   </a>
+                               </li>
+                               <li>
+                                   <a href="{{url()->to("/")}}">
+                                       <div class="side-img">
+                                           <i class="fab fa-google"></i>
+                                       </div>
+                                       <div class="sid_content">GOOGLE</div>
+                                   </a>
+                               </li>
+                           </ul>
+                       </div>
                    </div>
                 </div>
             </div>

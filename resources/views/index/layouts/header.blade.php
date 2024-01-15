@@ -58,6 +58,11 @@
                             </a>
                         </li>
                         <li>
+                            <a href="{{ route("home.handyman.index") }}">
+                                <span>Handyman Job</span>
+                            </a>
+                        </li>
+                        <li>
                             <a href="{{ route("home.services.index") }}">
                                 <span>Cleaning Services</span>
                             </a>
@@ -127,11 +132,6 @@
                         <li>
                             <a href="{{ route("home.faq.index") }}">
                                 <span>FAQs</span>
-                            </a>
-                        </li>
-                        <li>
-                            <a href="{{ route("home.blog.index") }}">
-                                <span>BLog</span>
                             </a>
                         </li>
                     </ul>

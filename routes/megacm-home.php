@@ -3,6 +3,7 @@
 use App\Http\Controllers\Home\BlogController;
 use App\Http\Controllers\Home\ContactController;
 use App\Http\Controllers\Home\FaqController;
+use App\Http\Controllers\Home\HandymanController;
 use App\Http\Controllers\Home\IndexController;
 use App\Http\Controllers\Home\LandScapingController;
 use App\Http\Controllers\Home\OrderController;
@@ -43,6 +44,10 @@ Route::name("home.")->group(function (){
         Route::get("/{renovation}", [LandScapingController::class, "landscaping"])->name("landscaping");
     });
 
+    Route::name("handyman.")->prefix("handyman")->group(function (){
+        Route::get("/", [HandymanController::class, "index"])->name("index");
+        Route::get("/{handyman}", [HandymanController::class, "handyman"])->name("handyman");
+    });
 
 
     Route::name("services.")->prefix("services")->group(function (){
