@@ -191,6 +191,9 @@ ul.v-list-location{
 }
 
 .blog-services{
+    li + li{
+        margin-left: 20px;
+    }
   li{
     margin-bottom: 20px;
     a{
@@ -199,14 +202,14 @@ ul.v-list-location{
       align-items: center;
     }
     .side-img{
-      width: 50px;
+      width: 36px;
       img{
         height: 30px;
         width: auto;
         filter: hue-rotate(130deg);
       }
       i{
-        color: #dc4939;
+        color: #fff;
         font-size: 32px;
         text-align: center;
       }
