@@ -335,3 +335,11 @@ ul.v-list-location{
 .extra-item:hover{
   filter: invert(0.1);
 }
+.strong{
+    text-transform: capitalize;
+    font-size: 25px;
+    font-weight: bold;
+    margin-right: 1px;
+    position: relative;
+    bottom: -2px;
+}

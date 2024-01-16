@@ -14,23 +14,21 @@
                     <div class="row">
                         <div class="col-md">
                             <ul data-aos="zoom-in-up" class="aos-init aos-animate">
-                                <li><img src="images/ic/ic_earthworks.png" style="max-width: 25px; margin-right: 10px;"> Earthworks</li>
                                 <li><img src="images/ic/ic_artificialturf.png" style="max-width: 25px; margin-right: 10px;"> Artificial Turf</li>
                                 <li><img src="images/ic/ic_gardenbeds.png" style="max-width: 25px; margin-right: 10px;"> Garden Beds &amp; Planting</li>
                                 <li><img src="images/ic/ic_paving.png" style="max-width: 25px; margin-right: 10px;"> Paving and Tiling</li>
                                 <li><img src="images/ic/ic_retainingwalls.png" style="max-width: 25px; margin-right: 10px;"> Retaining Walls</li>
                                 <li><img src="images/ic/ic_fencing.png" style="max-width: 25px; margin-right: 10px;"> Fencing</li>
-                                <li><img src="images/ic/ic_concreting.png" style="max-width: 25px; margin-right: 10px;"> Concreting</li>
+
                             </ul>
                         </div>
                         <div class="col-md">
                             <ul data-aos="zoom-in-down" class="aos-init aos-animate">
                                 <li><img src="images/ic/ic_decking.png" style="max-width: 25px; margin-right: 10px;"> Decking and Pergolas</li>
                                 <li><img src="images/ic/ic_realturf.png" style="max-width: 25px; margin-right: 10px;"> Real Turf</li>
-                                <li><img src="images/ic/ic_irrigation.png" style="max-width: 25px; margin-right: 10px;"> Irrigation</li>
                                 <li><img src="images/ic/ic_maintenance.png" style="max-width: 25px; margin-right: 10px;"> Commercial Garden Maintenance</li>
                                 <li><img src="images/ic/ic_residential.png" style="max-width: 25px; margin-right: 10px;"> Residential Renovations</li>
-                                <li><img src="images/ic/ic_playground.png" style="max-width: 25px; margin-right: 10px;"> Playground &amp; Childcare Landscaping</li>
+                                <li><img src="images/ic/ic_concreting.png" style="max-width: 25px; margin-right: 10px;"> Concreting</li>
                             </ul>
                         </div>
                     </div>

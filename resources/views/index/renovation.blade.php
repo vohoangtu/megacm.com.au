@@ -25,12 +25,12 @@
                     </p>
                 </div>
                 <div class="row">
-                    <p class="fw-medium"><span class="fa fa-star" style="color: #038732"></span> Teamwork – working together as the Mega Construction &amp;
+                    <p class="fw-medium"><span class="fa fa-star" style="color: #038732"></span> <span class="strong">T</span>eamwork – working together as the Mega Construction &amp;
                         Maintenance family</p>
-                    <p class="fw-medium"><span class="fa fa-star" style="color: #038732"></span> Responsibility – taking ownership of the task in hand</p>
-                    <p class="fw-medium"><span class="fa fa-star" style="color: #038732"></span> Understanding – knowing our business and our clients’ business</p>
-                    <p class="fw-medium"><span class="fa fa-star" style="color: #038732"></span> Standards – acting ethically whilst exceeding the brief</p>
-                    <p class="fw-medium"><span class="fa fa-star" style="color: #038732"></span> Tenacity – approaching challenges through innovative solutions</p>
+                    <p class="fw-medium"><span class="fa fa-star" style="color: #038732"></span> <span class="strong">R</span>esponsibility – taking ownership of the task in hand</span></p>
+                    <p class="fw-medium"><span class="fa fa-star" style="color: #038732"></span> <span class="strong">U</span>nderstanding – knowing our business and our clients’ business</span></p>
+                    <p class="fw-medium"><span class="fa fa-star" style="color: #038732"></span> <span class="strong">S</span>tandards – acting ethically whilst exceeding the brief</span></p>
+                    <p class="fw-medium"><span class="fa fa-star" style="color: #038732"></span> <span class="strong">T</span>enacity – approaching challenges through innovative solutions</span></p>
                 </div>
             </div>
         </div>
