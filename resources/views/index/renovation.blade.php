@@ -1,6 +1,48 @@
 @extends("index.layouts.app")
 
 @section("content")
+    <div class="block py-5 bg-grey">
+        <div class="container">
+            <h3 class="h3-title text-center"><span>From concept through completion, we are committed to supreme quality at affordable prices.</span></h3>
+            <div class="w-100 d-flex justify-content-evenly my-4">
+                <div class="__image">
+                    <img class="img-fluid img-300" src="{{ asset("assets/images/renovation/kitchen/418339497_377724654803550_5178368265018832482_n.jpg") }}" alt="">
+                </div>
+                <div class="__image">
+                    <img class="img-fluid img-300" src="{{ asset("assets/images/renovation/bathroom/417469561_916297393418014_7190964236631903554_n.jpg") }}" alt="">
+                </div>
+                <div class="__image">
+                    <img class="img-fluid img-300" src="{{ asset("assets/images/renovation/house/417586887_791193639690997_3030133632775110213_n.jpg") }}" alt="">
+                </div>
+            </div>
+        </div>
+        <div class="container text-center">
+            <div class="row mt-3 mb-2">
+                <div class="col-md-6 col-12">
+                    <p class="text-cneter h3-title" style="font-size: 18px;">
+                        * Affordably, Competitively Priced
+                    </p>
+                </div>
+                <div class="col-md-6 col-12">
+                    <p class="text-cneter h3-title" style="font-size: 18px;">* Fully licenced & Insured</p>
+                </div>
+                <div class="col-md-6 col-12">
+                    <p class="text-cneter h3-title" style="font-size: 18px;">
+                        * Friendly Team & Professional
+                    </p>
+                </div>
+                <div class="col-md-6 col-12">
+                    <p class="text-cneter h3-title" style="font-size: 18px;">
+                        * Free Quotes
+                    </p>
+                </div>
+
+
+            </div>
+        </div>
+    </div>
+
+
     <section class="p-5 bg-medgray">
         <div class="container">
             <div class="row py-5">
@@ -15,6 +57,52 @@
                         solutions. We commit to fulfil all contractual obligations and commit to
                         exceed the expectations of our customers.
                     </p>
+                </div>
+
+            </div>
+        </div>
+    </section>
+    <section class="p-5">
+        <div class="container">
+ @php
+    $kitchens = new \Symfony\Component\Finder\Finder();
+    $kitchenGalleryFiles = $kitchens->in(public_path("gallery/renovation/kitchen"))->depth(0)->files();
+    $kitchens = [];
+    foreach($kitchenGalleryFiles as $file){
+        $kitchens[] = [
+            'name' => 'Kitchen ',
+            'path' => asset("gallery/renovation/kitchen/". $file->getBasename())
+        ];
+    }
+ @endphp
+@php
+    $bathroom = new \Symfony\Component\Finder\Finder();
+    $bathroomGalleryFiles = $bathroom->in(public_path("gallery/renovation/bathroom"))->depth(0)->files();
+    $bathrooms = [];
+    foreach($bathroomGalleryFiles as $file){
+        $bathrooms[] = [
+            'name' => 'Bathroom ',
+            'path' => asset("gallery/renovation/bathroom/". $file->getBasename())
+        ];
+    }
+@endphp
+            @include("components.gallery", [
+                'galleryItems' => [
+                    'kitchen' => [
+                        'title' => 'Kitchen',
+                        'images' => $kitchens,
+                    ],
+                    'bathroom' => [
+                        'title' => 'Bathroom',
+                        'images' => $bathrooms,
+],
+            ]]);
+        </div>
+    </section>
+    <section class="p-5 bg-medgray">
+        <div class="container">
+            <div class="row py-5">
+                <div class="row">
                     <p>
                         Mega Construction &amp; Maintenance encourages personal and
                         professional growth of every employee. Management promotes a
@@ -35,41 +123,7 @@
             </div>
         </div>
     </section>
-    <!--  intro -->
-    <section class="p-5 bg-gray">
-        <div class="container">
-            <div class="main-title text-center">
-                <h3 class="h3-title">
-                    <span>
-                       Our customers love our latest projects
-                    </span>
-                </h3>
-            </div>
-            <div class="row no-gutters py-5 px-5">
-                <div class="col-sm-6"><img src="gallery/reno-01-big.jpg" class="img-fluid" data-aos="fade-up" data-aos-duration="1500"></div>
-                <div class="col-sm-6"><img src="gallery/reno-01-big-b.jpg" class="img-fluid bw" data-aos="fade-down" ></div>
-            </div>
 
-            <div class="row no-gutters py-5 px-5">
-                <div class="col-sm-6"><img src="gallery/reno-02-big.jpg" class="img-fluid" data-aos="flip-up" data-aos-duration="1500"></div>
-                <div class="col-sm-6"><img src="gallery/reno-02-big-b.jpg" class="img-fluid bw" data-aos="flip-down" ></div>
-            </div>
-
-            <div class="row no-gutters py-5 px-5">
-                <div class="col-sm-6"><img src="gallery/reno-03-big.jpg" class="img-fluid" data-aos="fade-up" data-aos-duration="1500"></div>
-                <div class="col-sm-6"><img src="gallery/reno-03-big-b.jpg" class="img-fluid bw" data-aos="fade-down" ></div>
-            </div>
-
-            <div class="row no-gutters py-5 px-5">
-                <div class="col-sm-6"><img src="gallery/reno-04-big.jpg" class="img-fluid" data-aos="flip-up" data-aos-duration="1500"></div>
-                <div class="col-sm-6"><img src="gallery/reno-04-big-b.jpg" class="img-fluid bw" data-aos="flip-down" ></div>
-            </div>
-            <div class="row no-gutters py-5 px-5">
-                <div class="col-sm-12"><img src="gallery/reno-05-big.jpg" class="img-fluid" data-aos="flip-up" data-aos-duration="1500"></div>
-
-            </div>
-        </div>
-    </section>
 @endsection
 @push("home.footer.js")
     <script src="https://code.jquery.com/jquery-3.7.1.min.js" integrity="sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo=" crossorigin="anonymous"></script>

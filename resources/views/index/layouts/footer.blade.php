@@ -33,7 +33,7 @@
                                <a href="{{ route("home.contact") }}">Contact Us</a><br>
                                <a href="{{ route("home.faq.index") }}">FAQS</a><br>
 {{--                               <a href="{{ route("home.login") }}">Login</a><br>--}}
-{{--                               <a href="{{ route("home.review") }}">Reviews</a>--}}
+                               <a href="https://g.page/r/CXJqCCAQXW6nEBM/review">Reviews</a>
                            </p>
                        </div>
                        <div class="textwidget">
