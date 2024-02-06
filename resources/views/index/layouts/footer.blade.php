@@ -29,7 +29,7 @@
                                <a href="{{ route("home.index") }}">Home</a><br>
                                <a href="{{ route("home.about") }}">About us</a><br>
 {{--                               <a href="{{ route("home.career") }}">Work with us</a><br>--}}
-                               <a href="{{ route("home.pricing.index") }}">Pricing</a><br>
+{{--                               <a href="{{ route("home.pricing.index") }}">Pricing</a><br>--}}
                                <a href="{{ route("home.contact") }}">Contact Us</a><br>
                                <a href="{{ route("home.faq.index") }}">FAQS</a><br>
 {{--                               <a href="{{ route("home.login") }}">Login</a><br>--}}
