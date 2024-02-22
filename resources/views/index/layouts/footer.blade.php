@@ -73,8 +73,21 @@
     <div id="footer-copyright">
         <div class="container">
             <div class="w-100 text-center py-3">
-                Copyright © 2023. experiment version
+                Copyright © 2024. experiment version
             </div>
         </div>
     </div>
 </footer>
+
+<!-- mmenu scripts -->
+<script src="{{asset("assets/libs/mmenu/mmenu.js")}}"></script>
+<script>
+    new Mmenu(document.querySelector("#mmenu"));
+    document.addEventListener("click", function (evnt) {
+        var anchor = evnt.target.closest('a[href="#/"]');
+        if (anchor) {
+            alert("Thank you for clicking, but that's a demo link.");
+            evnt.preventDefault();
+        }
+    });
+</script>

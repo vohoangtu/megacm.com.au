@@ -17,6 +17,7 @@
      'resources/css/home.scss'
 ])
 <link rel="stylesheet" href="{{ asset("assets/css/fontawesome/all.css") }}">
+<link rel="stylesheet" href="{{ asset("assets/libs/mmenu/mmenu.css") }}">
 <style>
     #price-table .nav-tabs{
         display: grid;
@@ -92,3 +93,5 @@
 
     gtag('config', 'G-V0DYKYK6TN');
 </script>
+
+

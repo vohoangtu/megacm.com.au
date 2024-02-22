@@ -1,4 +1,3 @@
-<header>
     <div id="header">
         <div class="w-100 d-flex flex-wrap justify-content-center justify-content-lg-between align-items-center"
              style="background: #038732;padding: 10px 0;margin-bottom: 10px; color: #fff;font-weight: 500">
@@ -34,7 +33,10 @@
         </div>
         <div class="container">
 
-            <div class="w-100 d-flex flex-wrap justify-content-center justify-content-lg-between align-items-center">
+            <div class="header-top">
+                <a href="#mmenu" class="a-menu-icon">
+                    <i class="fa fa-bars"></i>
+                </a>
                 <div id="logo">
                     <a href="/">
                         <img src="{{asset("images/logo_brighter.png")}}" alt="logo" class="img-fluid" style="width: 100px">
@@ -139,9 +141,103 @@
             </div>
         </div>
     </div>
-</header>
 
-
+<div id="mmenu">
+    <ul>
+        <li>
+            <a href="{{ route("home.index") }}">
+                <span>Home</span>
+            </a>
+        </li>
+        <li>
+            <a href="{{ route("home.renovation.index") }}">
+                <span>Renovation</span>
+            </a>
+        </li>
+        <li>
+            <a href="{{ route("home.landscaping.index") }}">
+                <span>Landscaping</span>
+            </a>
+        </li>
+        <li>
+            <a href="{{ route("home.handyman.index") }}">
+                <span>Handyman Job</span>
+            </a>
+        </li>
+        <li>
+            <a href="{{ route("home.services.index") }}">
+                <span>Cleaning Services</span>
+            </a>
+            <ul>
+                <li>
+                    <a href="{{ route("home.services.service", 'house-cleaning') }}">
+                        <span>House Cleaning</span>
+                    </a>
+                </li>
+                <li>
+                    <a href="{{ route("home.services.service", 'office-cleaning') }}">
+                        Office Cleaning
+                    </a>
+                </li>
+                <li>
+                    <a href="{{ route("home.services.service", 'regular-cleaning') }}">
+                        Regular Cleaning
+                    </a>
+                </li>
+                <li>
+                    <a href="{{ route("home.services.service", 'end-of-lease-cleaning') }}">
+                        End of Lease Cleaning
+                    </a>
+                </li>
+                <li>
+                    <a href="{{ route("home.services.service", 'deep-cleaning') }}">
+                        Deep Cleaning
+                    </a>
+                </li>
+                <li>
+                    <a href="{{ route("home.services.service", 'construction-cleaning') }}">
+                        Construction Cleaning
+                    </a>
+                </li>
+                <li>
+                    <a href="{{ route("home.services.service", 'ndis-cleaning') }}">
+                        NDIS Cleaning
+                    </a>
+                </li>
+                <li>
+                    <a href="{{ route("home.services.service", 'pressure-cleaning') }}">
+                        Pressure Cleaning
+                    </a>
+                </li>
+                <li>
+                    <a href="{{ route("home.services.service", 'carpet-cleaning') }}">
+                        Carpet Cleaning
+                    </a>
+                </li>
+            </ul>
+        </li>
+        <li class="d-none">
+            <a href="{{ route("home.pricing.index") }}">
+                <span>Pricing</span>
+            </a>
+        </li>
+        <li>
+            <a href="{{ route("home.cleaning.whereWeServe") }}">
+                <span>Areas</span>
+            </a>
+        </li>
+        <li>
+            <a href="{{ route("home.about") }}">
+                <span>About Us</span>
+            </a>
+        </li>
+        <li>
+            <a href="{{ route("home.faq.index") }}">
+                <span>FAQs</span>
+            </a>
+        </li>
+    </ul>
+</div>
 @section("header-background")
     <style>
         #header{
