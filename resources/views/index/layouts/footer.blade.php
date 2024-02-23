@@ -1,4 +1,4 @@
-<footer>
+<div id="footer">
     <div id="footer-content">
         <div class="container">
             <div class="row">
@@ -77,7 +77,7 @@
             </div>
         </div>
     </div>
-</footer>
+</div>
 
 <!-- mmenu scripts -->
 <script src="{{asset("assets/libs/mmenu/mmenu.js")}}"></script>
